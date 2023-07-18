@@ -217,7 +217,7 @@ span {
 
         .text-box h1::before{
         content: "";
-        animation: tittleTyping 7s infinite;
+        animation: tittleTyping 10s infinite linear;
         margin-right: 0.5ch;
 
         position: absolute;
@@ -245,16 +245,18 @@ span {
         23.52% {content: "social media de";}
         24.99% {content: "social media des";}
         26.46% {content: "social media desi";}
-        27.93% {content: "social media design";}
+        27.93% {content: "social media desig";}
         29.40% {content: "social media design";}
         30.87% {content: "social media design";}
         32.34% {content: "social media design";}
-        33.81% {content: "social media design";}
+        33.81% {content: "social media design"; box-shadow: inset 0ch 0ch 0ch #050505;}
         35.28% {content: "social media design";}
-        36.75% {content: "social media design";}
+        36.75% {content: "social media design"; box-shadow: inset -19ch 0ch 0ch #050505;}
         38.22% {content: "social media design";}
         39.69% {content: "social media design";}
         41.16% {content: "social media design";}
+        42.61% {box-shadow: inset -19ch 0ch 0ch #050505;}
+        42.62% {box-shadow: inset -0ch 0ch 0ch #050505;}
         42.63% {content: "";}
         57.33% {content: "";}
         58.80% {content: "w";}
@@ -264,17 +266,19 @@ span {
         64.68% {content: "web d";}
         66.15% {content: "web de";}
         67.62% {content: "web des";}
-        69.09% {content: "web desi";}
+        69.09% {content: "web desig";}
         70.56% {content: "web design";}
         72.03% {content: "web design";}
         73.50% {content: "web design";}
         74.97% {content: "web design";}
-        76.44% {content: "web design";}
+        76.44% {content: "web design"; box-shadow: inset -0ch 0ch 0ch #050505;}
         77.91% {content: "web design";}
-        79.38% {content: "web design";}
+        79.38% {content: "web design"; box-shadow: inset -11ch 0ch 0ch #050505;}
         80.85% {content: "web design";}
         82.32% {content: "web design";}
         83.79% {content: "web design";}
+        85.24% {box-shadow: inset -11ch 0ch 0ch #050505;}
+        85.25% {box-shadow: inset -0ch 0ch 0ch #050505;}
         85.26% {content: "";}
         100.00% {content: "";}
       }
